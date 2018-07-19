@@ -1,0 +1,22 @@
+/*
+Theme Name:     Sydney Child
+Theme URI:      http: //example.com/
+Description:    Child theme for the Sydney theme 
+Author:         Your name here
+Author URI:     http: //example.com/about/
+Template:       Sydney
+Version:        0.1.0
+*/
+
+.container.content-wrapper{
+	margin:0;
+	padding:0;
+	width:100%;
+
+}
+.page .page-wrap .content-wrapper, .single .page-wrap .content-wrapper {
+    padding: 0px;
+}
+#sidebar-footer{
+	height:30rem;
+}
